@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maaz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaz25925&label=Profile%20views&color=0e75b6&style=flat" alt="maaz25925" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
-- 💬 Ask me about **Competitive Programming, MongoDB (Console), Basic Java, Basic C, Basic C++**
+- 💬 Ask me about **Competitive Programming, MongoDB, Java, C, C++, Node.js, JavaScript, React**
 
 - 📫 How to reach me **maaz.khan25925@gmail.com**
 
